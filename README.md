@@ -65,9 +65,18 @@ My name is Rico and I am a Computer Science student from Germany. Welcome to my 
 
 #### 📊 Monthly development breakdown
 <!--START_SECTION:waka-->
+
 ```text
-No activities have been tracked last month
+Total Time: 1 hr 27 mins
+
+YAML             19 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.72 %
+Markdown         17 mins         █████░░░░░░░░░░░░░░░░░░░░   20.08 %
+XML              13 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.64 %
+C++              13 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.44 %
+Java             7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
+GitIgnore file   6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
 ```
+
 <!--END_SECTION:waka-->
 
 #### 🏆 My Github Trophies
