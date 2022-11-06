@@ -67,6 +67,8 @@ My name is Rico and I am a Computer Science student from Germany. Welcome to my 
 <!--START_SECTION:waka-->
 
 ```text
+Total Time: 1 hr 27 mins
+
 YAML             19 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.72 %
 Markdown         17 mins         █████░░░░░░░░░░░░░░░░░░░░   20.08 %
 XML              13 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.64 %
