@@ -63,7 +63,7 @@ My name is Rico and I am a Computer Science student from Germany. Welcome to my 
 #### 📈Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackfisch&show_icons=true&theme=dark)
 
-#### 📊 Monthly development breakdown
+#### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 
 ```text
