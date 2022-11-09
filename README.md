@@ -67,13 +67,13 @@ My name is Rico and I am a Computer Science student from Germany. Welcome to my 
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 8 hrs 26 mins
+Total Time: 8 hrs 27 mins
 
-Java             3 hrs 59 mins   ███████████▓░░░░░░░░░░░░░   47.29 %
-Markdown         1 hr 48 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.40 %
-YAML             58 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
-XML              31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
-C++              13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+Java             3 hrs 59 mins   ███████████▓░░░░░░░░░░░░░   47.19 %
+Markdown         1 hr 49 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.51 %
+YAML             58 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
+XML              31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+C++              13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
 Bash             13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
 ```
 
