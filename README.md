@@ -78,7 +78,7 @@ My name is Rico and I am a Computer Science student from Germany. Welcome to my 
 ```text
 Total Time: 12 mins
 
-SQL   12 mins         █████████████████████████   100.00 %
+Other   22 mins         ████████████████░░░░░░░░░   64.07 %
 ```
 
 <!--END_SECTION:waka-->
