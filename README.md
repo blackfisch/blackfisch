@@ -78,9 +78,7 @@ My name is Rico and I am a Computer Science student from Germany. Welcome to my 
 ```text
 Total Time: 0 secs
 
-JSON       0 secs          ████████████████████████░   96.13 %
-Markdown   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
-Java       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
