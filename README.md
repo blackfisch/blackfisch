@@ -75,7 +75,7 @@ My name is Rico and I am a Computer Science student from Germany. Welcome to my 
 #### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Total Time: 0 secs
 
 No activity tracked
