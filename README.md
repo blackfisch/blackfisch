@@ -79,13 +79,13 @@ My name is Rico and I am a Computer Science student from Germany. Welcome to my 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 9 hrs 40 mins
+Total Time: 12 hrs 52 mins
 
-Rust         5 hrs 55 mins   ███████████████░░░░░░░░░░   60.62 %
-Python       2 hrs 56 mins   ███████▓░░░░░░░░░░░░░░░░░   30.02 %
-TOML         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-Markdown     15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
-Bash         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+Rust         6 hrs 15 mins   ████████████░░░░░░░░░░░░░   47.47 %
+Python       3 hrs 57 mins   ███████▓░░░░░░░░░░░░░░░░░   30.04 %
+Markdown     1 hr 24 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 %
+TOML         46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+Other        19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
 ```
 
 <!--END_SECTION:waka-->
