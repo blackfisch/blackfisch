@@ -81,11 +81,11 @@ My name is Rico and I am a Computer Science student from Germany. Welcome to my 
 ```txt
 Total Time: 3 hrs 59 mins
 
-Bash         1 hr 15 mins    ███████▒░░░░░░░░░░░░░░░░░   29.32 %
-C++          1 hr 2 mins     ██████░░░░░░░░░░░░░░░░░░░   24.00 %
-Python       44 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.30 %
-INI          28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 %
-Other        19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
+Bash         1 hr 15 mins    ███████▒░░░░░░░░░░░░░░░░░   28.72 %
+C++          1 hr 2 mins     ██████░░░░░░░░░░░░░░░░░░░   23.50 %
+Python       44 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.94 %
+INI          28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 %
+Other        25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
 ```
 
 <!--END_SECTION:waka-->
