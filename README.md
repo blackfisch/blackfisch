@@ -79,13 +79,13 @@ My name is Rico and I am a Computer Science student from Germany. Welcome to my 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 2 mins
+Total Time: 47 mins
 
-C             1 hr 17 mins    ███████████████▓░░░░░░░░░   62.97 %
-Markdown      33 mins         ███████░░░░░░░░░░░░░░░░░░   27.40 %
-CMake         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
-YAML          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-Objective-C   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+Markdown      23 mins         ████████████▒░░░░░░░░░░░░   48.73 %
+C             21 mins         ███████████▓░░░░░░░░░░░░░   46.33 %
+CMake         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+Objective-C   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
