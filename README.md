@@ -81,10 +81,10 @@ My name is Rico and I am a Computer Science student from Germany. Welcome to my 
 ```txt
 Total Time: 14 hrs 30 mins
 
-Rust         12 hrs 28 mins  █████████████████████▒░░░   85.59 %
-TOML         56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
-C            29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-YAML         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+Rust         10 hrs 50 mins  ██████████████████▓░░░░░░   74.40 %
+C            2 hrs 9 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.84 %
+TOML         54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
+YAML         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
 BlitzBasic   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
 ```
 
