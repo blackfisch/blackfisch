@@ -79,13 +79,9 @@ My name is Rico and I am a Computer Science student from Germany. Welcome to my 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 29 mins
+Total Time: 0 secs
 
-YAML         1 hr 59 mins    ████████████████████░░░░░   80.18 %
-Git Config   14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
-Rust         11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
-CMake        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
-C            1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
