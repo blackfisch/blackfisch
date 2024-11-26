@@ -81,7 +81,7 @@ My name is Rico and I am a Computer Science student from Germany. Welcome to my 
 ```txt
 Total Time: 0 secs
 
-No activity tracked
+Rust   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
