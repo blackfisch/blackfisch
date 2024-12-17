@@ -79,13 +79,13 @@ My name is Rico and I am a Computer Science student from Germany. Welcome to my 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 10 hrs 19 mins
+Total Time: 11 hrs 15 mins
 
-TeX          9 hrs 48 mins   ███████████████████████▒░   92.73 %
-JSON         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
-Other        15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
-Rust         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+TeX          10 hrs 5 mins   ██████████████████████░░░   87.75 %
+C            36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
+JSON         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+Other        15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+Makefile     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 ```
 
 <!--END_SECTION:waka-->
