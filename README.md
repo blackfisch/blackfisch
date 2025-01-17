@@ -81,9 +81,10 @@ My name is Rico and I am a Computer Science student from Germany. Welcome to my 
 ```txt
 Total Time: 3 hrs 19 mins
 
-C       2 hrs 30 mins   ███████████████████░░░░░░   75.45 %
-TeX     46 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.01 %
-Rust    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+C       2 hrs 38 mins   ████████████████████░░░░░   79.55 %
+Bash    28 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.46 %
+TeX     8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+Rust    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
 Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
